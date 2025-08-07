@@ -14,17 +14,17 @@
 <details>
   <summary><strong> Table of Contents</strong></summary>
 
-1. [Introduction](#1-introduction)
-2. [Purpose](#2-purpose)  
-3. [Pre-Requisites](#3-pre-requisites)  
-4. [System Requirements](#4-system-requirements)   
-5. [Ports](#5-ports)
-6. [Architecture](#5-Architecture)
-7. [Dataflow Diagram & Steps](#5-Dataflow-Diagram-&-Steps)
-8. [Installation of Frontend API](#6-Installation-of-Frontend-API)   
-9. [Troubleshooting](#7-troubleshooting)   
-10. [Contact Information](#9-contact-information)  
-11. [References](#10-references) 
+
+1. [Purpose](#2-purpose)  
+2. [Pre-Requisites](#3-pre-requisites)  
+3. [System Requirements](#4-system-requirements)   
+4. [Ports](#5-ports)
+5. [Architecture](#5-Architecture)
+6. [Dataflow Diagram & Steps](#5-Dataflow-Diagram-&-Steps)
+7. [Installation of Frontend API](#6-Installation-of-Frontend-API)   
+8. [Troubleshooting](#7-troubleshooting)   
+9. [Contact Information](#9-contact-information)  
+10. [References](#10-references) 
 </details>
 
 ---
